@@ -6,6 +6,9 @@
     "dev": "webextension-toolbox dev",
     "build": "webextension-toolbox build"
   },
+  "volta": {
+    "node": "16.20.1"
+  },
   "devDependencies": {
     "webextension-toolbox": "latest"
   }
